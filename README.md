@@ -20,3 +20,19 @@ Certifique-se de ter o Python instalado. Depois, instale as bibliotecas necessá
 
 ```bash
 pip install requests beautifulsoup4
+
+#### 2. Executando o Script
+Clone este repositório para o seu computador:
+
+git clone https://github.com/romuloechevengua/Web-Scraper
+cd Web-Scraper
+
+# Em seguida, execute o script a partir da linha de comando:
+python scraper_noticias.py
+
+---
+
+<div align="center">
+  <p>Feito por Rômulo Echevenguá</p>
+  <p>Estudante de Análise e Desenvolvimento de Sistemas</p>
+</div>
