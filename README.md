@@ -30,8 +30,7 @@ cd Web-Scraper
 # Em seguida, execute o script a partir da linha de comando:
 python scraper_noticias.py
 
----
-'''
+```
 <div align="center">
   <p>Feito por Rômulo Echevenguá</p>
   <p>Estudante de Análise e Desenvolvimento de Sistemas</p>
