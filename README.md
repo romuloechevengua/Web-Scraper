@@ -31,7 +31,7 @@ cd Web-Scraper
 python scraper_noticias.py
 
 ---
-
+'''
 <div align="center">
   <p>Feito por Rômulo Echevenguá</p>
   <p>Estudante de Análise e Desenvolvimento de Sistemas</p>
